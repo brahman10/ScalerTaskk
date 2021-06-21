@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ScalerTask</string>
+    <string name="create_interview">Create interview</string>
+    <string name="back">back</string>
+    <string name="add_interview">Add Interview</string>
+    <string name="start_time">Start Time</string>
+    <string name="end_time">End Time</string>
+    <string name="save_interview">Save</string>
+    <string name="participant_name">Participant Name</string>
+    <string name="participant_mail">Partcipant Email</string>
+    <string name="select_date">Select Date</string>
+    <string name="delete_interview">Delete</string>
+</resources>
